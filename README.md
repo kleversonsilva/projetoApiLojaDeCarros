@@ -17,6 +17,7 @@
   - cadastrar
   - remover
   - atualizar
-  - pegar todos os clientes
-  - filtrar cliente por id
+  - pegar todos os carros
+  - filtrar carro por id
+  - opcional; filtrar carro por categoria.
 
