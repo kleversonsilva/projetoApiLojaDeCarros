@@ -2,7 +2,7 @@
 
 ## Api simples, cuja a funcionalidade é com base em dois autores, clientes e carros:
 
-- **Clientes**
+- ***Clientes***
   - cadastrar
   - remover
   - atualizar
